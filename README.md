@@ -29,7 +29,7 @@ options:
 ```
 ## Example
 ```
-$ FinderIP.py -d www.google.com
+$ python FinderIP.py -d www.google.com
 
                 ______
              .-'      `-.
