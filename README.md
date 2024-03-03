@@ -15,7 +15,7 @@ $ git clone https://github.com/RamosTechLinux/WebSite-IP-Finder.git
 
 ## Usage
 ```
-usage: FinderIP.py [-h] [-d] [-s] [--pdf] [--version]
+usage: python FinderIP.py [-h] [-d] [-s] [--pdf] [--version]
 
 Find the IP address of any website
 
